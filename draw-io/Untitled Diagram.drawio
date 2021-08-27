@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T10:55:46.067Z" agent="5.0 (Macintosh)" etag="xRV67YouWovU4_6fi37N" version="15.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-27T18:55:30.506Z" agent="5.0 (Macintosh)" etag="USPX2qtJSo7Hnpy4m7Zd" version="15.0.1" type="github">
   <diagram id="xWQqhg-0VKFoBd_7IBCv" name="Page-1">
     <mxGraphModel dx="946" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MEBkixdO7gdI-LG73mD--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MEBkixdO7gdI-LG73mD--3" target="MEBkixdO7gdI-LG73mD--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEBkixdO7gdI-LG73mD--3" value="Scrape Category Page @12pm (Region based)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MEBkixdO7gdI-LG73mD--13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="185" width="38" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
